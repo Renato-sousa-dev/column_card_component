@@ -1,0 +1,14 @@
+* {
+	box-sizing: border-box;
+}
+
+body,
+h3,
+p {
+	margin: 0px;
+	padding: 0px;
+}
+
+a {
+	text-decoration: none;
+}

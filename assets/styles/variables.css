@@ -1,0 +1,11 @@
+:root {
+	--highlight-color-1: hsl(31, 77%, 52%);
+	--highlight-color-2: hsl(184, 100%, 22%);
+	--highlight-color-3: hsl(179, 100%, 13%);
+
+	--primary-color: hsl(0, 0%, 95%);
+	--secondary-color: hsla(0, 0%, 100%, 0.75);
+
+	--primary-font: "Big Shoulders Display", cursive;
+	--secondary-font: "Lexend Deca", sans-serif;
+}
